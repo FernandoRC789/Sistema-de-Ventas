@@ -1,0 +1,2 @@
+1001;Nick;rodriguez;72727272;ventanilla;941709488
+1002;emilio;lopez;75757574;callao;987965941
